@@ -4,6 +4,12 @@ All notable changes to GSMTools are tracked here.
 
 The project uses pre-1.0 SemVer. Breaking workflow changes can still happen before `1.0.0`.
 
+## Unreleased
+
+### Added
+
+- App icon asset with transparent outer background and `.app` bundle wiring.
+
 ## 0.1.0 - V0 Review Build
 
 Initial release-candidate build for local review.
