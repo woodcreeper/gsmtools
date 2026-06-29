@@ -1,0 +1,12 @@
+.DS_Store
+/.build/
+/dist/
+/.swiftpm/
+/*.xcworkspace/
+xcuserdata/
+DerivedData/
+*.log
+
+# Local planning/design handoff artifacts kept outside v0 source releases.
+/PLAN_REVIEW.md
+/design_handoff_gsmtools/
